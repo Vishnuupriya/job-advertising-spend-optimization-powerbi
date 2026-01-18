@@ -136,7 +136,13 @@ Vendor-level budget optimization modeling can be applied using historical spend,
 ---
 
 ## 📎 File Included
-- `Metro Staffing Job Advertising Analysis.pbix` – Power BI dashboard file
+- `Out-Of-The-Box-Analytics-Project.pbix` – Power BI dashboard file
+- `job-cloud-output-jan-2019` - DataSet file
+
+---
+## 📂 Repository Structure
+- `dashboard/` – Power BI dashboard file (.pbix)
+- `data/` – Source dataset used for analysis (Excel)
 
 ---
 
